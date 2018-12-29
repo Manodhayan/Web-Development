@@ -7,7 +7,7 @@ Note : If not, Install npm before proceeding
 
 Install express
 ```
-npm install express-generator -save
+npm install -g express-generator -save
 ```
 ```
 IN:express --view=ejs --git
