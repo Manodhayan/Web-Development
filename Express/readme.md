@@ -4,11 +4,21 @@ npm -v
 ```
 Note : If not, Install npm before proceeding
 
+Create a new directory
+```
+npm init
+```
+Provide necessary information here, if you don't know what to fill just press enter after enter. Try to provide as much as information as possible.
+This will create a package.json in you folder
+```
+npm install
+```
 
 Install express
 ```
 npm install -g express-generator -save
 ```
+
 ```
 IN:express --view=ejs --git
 OUT:
